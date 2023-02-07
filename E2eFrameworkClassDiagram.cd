@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CSharpSeleniumFramework.PageObjects.CheckOutPage" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAABAAAAAAAAASAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\CheckOutPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpSeleniumFramework.PageObjects.LoginPage" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEAAQAAgAAQEAAACAAAAAAAAAAAAAAgEAAAA=</HashCode>
+      <FileName>PageObjects\LoginPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpSeleniumFramework.PageObjects.ProductsPage" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwABgAAAAAQAhAAAAAAAAACAAAAACAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\ProductsPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpSeleniumFramework.Tests.E2Etest" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAEAA=</HashCode>
+      <FileName>Tests\E2EFramework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpSeleniumFramework.Utilities.Base" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAIABAAAABIA=</HashCode>
+      <FileName>Utilities\Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
